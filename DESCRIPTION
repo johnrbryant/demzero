@@ -1,0 +1,26 @@
+Package: demzero
+Title: Tools for Working with Structural Zeros
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "John",
+           family = "Bryant",
+           role = c("aut", "cre"),
+           email = "john.r.bryant@gmail.com",
+           comment = c(ORCID = "0000-0002-8010-9748"))
+Description: Demographic arrays that include structural zeros can
+    represent a wide range of demographic systems and complicated
+    variables. demzero provides a set of tools for working with
+    structural zeros.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports:
+    methods,
+    dembase,
+    demcheck
+Suggests: 
+    testthat
+Remotes:
+    statisticsnz/dembase,
+    johnrbryant/demcheck
+RoxygenNote: 6.1.1
