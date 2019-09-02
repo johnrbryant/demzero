@@ -21,7 +21,7 @@ knitr::opts_chunk$set(
 
 **demzero** contains functions to prepare data so that has structural zeros.
 
-**demprep** is still under construction, and not ready for serious use.
+**demzero** is still under construction, and not ready for serious use.
 
 ## Installation
 
