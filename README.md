@@ -14,7 +14,6 @@ output: github_document
 
 **demzero** contains functions to prepare data so that has structural zeros.
 
-**demzero** is still under construction, and not ready for serious use.
 
 ## Installation
 
